@@ -1,5 +1,5 @@
- [x] Create project 
- [x] Connect Mysql
- [x] Install nodejs
- [x] Create crud post
- [x] Add tailwindcss
+ # Create project 
+ # Connect Mysql
+ # Install nodejs
+ # Create crud post
+ # Add tailwindcss
